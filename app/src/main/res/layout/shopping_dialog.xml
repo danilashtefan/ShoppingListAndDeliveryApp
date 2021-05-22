@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:fontFamily="@font/font_regular"
+        />
+
+    <EditText
+        android:id="@+id/editItemName"
+        android:hint="Enter the item name here"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/font_regular"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Price"
+        android:labelFor="@id/editItemPrice"
+        android:fontFamily="@font/font_regular"/>
+
+
+    <EditText
+        android:id="@+id/editItemPrice"
+        android:hint="Enter the item price here"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:maxLength="5"
+        android:fontFamily="@font/font_regular"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Description"
+        android:labelFor="@id/editItemDescription"
+        android:fontFamily="@font/font_regular"/>
+
+    <EditText
+        android:id="@+id/editItemDescription"
+        android:hint="Enter the item description here"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:maxLength="40"
+        android:fontFamily="@font/font_regular"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Category"
+        android:labelFor="@+id/spinnerCategory"
+        android:fontFamily="@font/font_regular"/>
+
+    <Spinner
+        android:id="@+id/spinnerCategory"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/entries"
+        android:fontFamily="@font/font_regular">
+    </Spinner>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Purchased"
+        android:labelFor="@+id/itemPurchased"
+        android:fontFamily="@font/font_regular"/>
+
+    <Switch
+        android:id="@+id/itemPurchased"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/font_regular"
+        android:scaleX="1.1"
+        android:scaleY="1.3"
+        tools:ignore="UseSwitchCompatOrMaterialXml" />
+
+</LinearLayout>

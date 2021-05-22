@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=8D:FC:31:DD:7E:00:16:49:D5:D3:19:E4:36:A8:9D:49:D1:58:8A:96%3Bhu.bme.aut.todorecyclerviewdemo
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    hu.bme.aut.todorecyclerviewdemo
+
+    SHA-1 certificate fingerprint:
+    8D:FC:31:DD:7E:00:16:49:D5:D3:19:E4:36:A8:9D:49:D1:58:8A:96
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCp6GieVCooa3T92R6GVJ08MQVGIm5LtjE</string>
+</resources>
