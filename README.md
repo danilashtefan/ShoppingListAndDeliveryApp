@@ -31,7 +31,7 @@ other people orders.
 
 ### Shopping list
 <p align="center">
- <img  src="https://media.giphy.com/media/x3JeEGjA7KdMERec8k/giphy.gif" width="350" height="700"/></p>
+ <img  src="https://media.giphy.com/media/x3JeEGjA7KdMERec8k/giphy.gif" width="350" height="730"/></p>
  </p>
  
 ### Customer order placement
