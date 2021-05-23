@@ -20,8 +20,12 @@ other people orders.
  ROOM local database is used to store the items of the user's shopping list and retrieve them when the application starts the next time
  Parse Server by Bitnami running in the AWS is used to manage the Delivery functionality. User roles (driver or customer), location and other info is stored there
  
+ ### Architecture description
+ Each View and Intent has it's own separate class, where the logic is implemented
+ 
 ### Architecture Design
-<img width="915" alt="Screen Shot 2021-05-23 at 10 26 50" src="https://user-images.githubusercontent.com/57729718/119253428-829f1000-bbb1-11eb-9f0a-6253b9a2b048.png">
+<img width="922" alt="Screen Shot 2021-05-23 at 10 31 27" src="https://user-images.githubusercontent.com/57729718/119253555-1375eb80-bbb2-11eb-8ed7-6fd46d3930dd.png">
+
 
 
 
