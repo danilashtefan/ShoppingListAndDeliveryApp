@@ -38,6 +38,11 @@ other people orders.
 <p align="center">
  <img  src="https://media.giphy.com/media/laIQ3mwaaLSVEXcoiF/giphy.gif" width="650" height="350"/></p>
  </p>
+ 
+### Driver order confirmation
+<p align="center">
+ <img  src="https://media.giphy.com/media/llEhmGBbxiK4eLKuXw/giphy.gif" width="650" height="350"/></p>
+ </p>
 
 
 
