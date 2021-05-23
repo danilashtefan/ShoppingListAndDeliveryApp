@@ -36,12 +36,12 @@ other people orders.
  
 ### Customer order placement
 <p align="center">
- <img  src="https://media.giphy.com/media/laIQ3mwaaLSVEXcoiF/giphy.gif" width="650" height="350"/></p>
+ <img  src="https://media.giphy.com/media/laIQ3mwaaLSVEXcoiF/giphy.gif" width="650" height="370"/></p>
  </p>
  
 ### Driver order confirmation
 <p align="center">
- <img  src="https://media.giphy.com/media/llEhmGBbxiK4eLKuXw/giphy.gif" width="650" height="350"/></p>
+ <img  src="https://media.giphy.com/media/llEhmGBbxiK4eLKuXw/giphy.gif" width="650" height="370"/></p>
  </p>
 
 
