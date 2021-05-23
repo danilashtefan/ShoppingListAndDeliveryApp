@@ -27,7 +27,7 @@ other people orders.
 <img width="922" alt="Screen Shot 2021-05-23 at 10 31 27" src="https://user-images.githubusercontent.com/57729718/119253555-1375eb80-bbb2-11eb-8ed7-6fd46d3930dd.png">
 
 
-# Demo
+# Demo 📱
 
 ### Shopping list
 <p align="center">
