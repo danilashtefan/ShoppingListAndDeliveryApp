@@ -29,6 +29,11 @@ other people orders.
 
 # Demo
 
+### Shopping list
+<p align="center">
+ <img  src="https://media.giphy.com/media/x3JeEGjA7KdMERec8k/giphy.gif" width="650" height="350"/></p>
+ </p>
+
 
 
 
