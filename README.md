@@ -36,7 +36,7 @@ other people orders.
  
 ### Customer order placement
 <p align="center">
- <img  src="https://media.giphy.com/media/q0450QTZBCJXrkAAKd/giphy.gif" width="650" height="350"/></p>
+ <img  src="https://media.giphy.com/media/laIQ3mwaaLSVEXcoiF/giphy.gif" width="650" height="350"/></p>
  </p>
 
 
