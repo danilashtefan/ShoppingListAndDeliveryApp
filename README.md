@@ -1,4 +1,4 @@
-# ShoppingListAndDeliveryApp
+# Shopping List And Delivery App :page_with_curl:
 
 # Introudction
 I guess everyone at least once in a life dreamed thet
