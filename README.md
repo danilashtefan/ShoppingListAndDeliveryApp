@@ -15,4 +15,14 @@ other people orders.
 - [ ] Customer can see his location on the map, place and cancel the order
 - [ ] Driver is able to pick up the orders nearby, check what user has ordered and check the locations of the nearest shops 
 
+# Architecture description
+ ### Database
+ ROOM local database is used to store the items of the user's shopping list and retrieve them when the application starts the next time
+ Parse Server by Bitnami running in the AWS is used to manage the Delivery functionality. User roles (driver or customer), location and other info is stored there
+ 
+### Architecture Design
+<img width="915" alt="Screen Shot 2021-05-23 at 10 26 50" src="https://user-images.githubusercontent.com/57729718/119253428-829f1000-bbb1-11eb-9f0a-6253b9a2b048.png">
+
+
+
 
